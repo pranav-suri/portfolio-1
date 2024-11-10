@@ -20,7 +20,7 @@ export const Projects = () => {
 const projects = [
   {
     title: "Institute Feedback System",
-    imgSrc: "project-imgs/institute-feedback.jpg",
+    imgSrc: "project-imgs/feedback.png",
     code: "#",
     projectLink: "#",
     tech: ["HTML", "CSS", "Javascript", "PHP", "Apache"],
@@ -99,7 +99,7 @@ const projects = [
   },
   {
     title: "Smart Greenhouse Model",
-    imgSrc: "#",
+    imgSrc: "project-imgs/smart-greenhouse.jpg",
     code: "https://github.com/pranav-suri/greenhouse-arduino-nodemcu", // Replace with actual link if available
     projectLink: "#", // Replace with actual link if available
     tech: ["Arduino", "Python", "Sensors"],
